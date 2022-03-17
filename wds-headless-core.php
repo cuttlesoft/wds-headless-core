@@ -2,10 +2,10 @@
 /**
  * Plugin Name: Cuttlesoft Headless (Core)
  * Plugin URI: https://github.com/cuttlesoft/wds-headless-core
- * Description: The core WordPress plugin for the Next.js WordPress Starter.
+ * Description: The core WordPress plugin for Cuttlesoft's Headless Theme.
  * Author: Cuttlesoft <engineering@cuttlesoft.com>
  * Author URI: https://cuttlesoft.com
- * Version: 2.1.0
+ * Version: 2.1.2
  * Requires at least: 5.6
  * Requires PHP: 7.4
  * License: GPL-2
