@@ -1,15 +1,17 @@
 <?php
 /**
- * Plugin Name: WDS Headless (Core)
- * Plugin URI: https://github.com/WebDevStudios/nextjs-wordpress-starter
+ * Plugin Name: Cuttlesoft Headless (Core)
+ * Plugin URI: https://github.com/cuttlesoft/wds-headless-core
  * Description: The core WordPress plugin for the Next.js WordPress Starter.
- * Author: WebDevStudios <contact@webdevstudios.com>
- * Author URI: https://webdevstudios.com
+ * Author: Cuttlesoft <engineering@cuttlesoft.com>
+ * Author URI: https://cuttlesoft.com
  * Version: 2.1.0
  * Requires at least: 5.6
  * Requires PHP: 7.4
  * License: GPL-2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: https://github.com/cuttlesoft/wds-headless-core
+ * Primary Branch: cuttle-main
  *
  * @package WDS_Headless_Core
  */
